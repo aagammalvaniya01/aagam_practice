@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1692526290368,
+      "name": "Aagam",
+      "email": "aagam1@gmail.com",
+      "age": "23",
+      "role": "Administrator",
+      "password": "12345678",
+      "image": "/images/1692526283574-1.jfif"
+    },
+    {
+      "id": 1692526327568,
+      "name": "Pratik",
+      "email": "Pratik1234@gmail.com",
+      "age": "21",
+      "role": "Editor",
+      "password": "123456abc",
+      "image": "/images/1692526315536-2.jfif"
+    },
+    {
+      "id": 1692526374336,
+      "name": "Priyanshi",
+      "email": "priyanshi01@gmail.com",
+      "age": "19",
+      "role": "Viewer",
+      "password": "123abcde",
+      "image": "/images/1692526363537-3.jfif"
+    },
+    {
+      "id": 1692526409918,
+      "name": "Mahi",
+      "email": "Mahi@yahoo.com",
+      "age": "14",
+      "role": "Administrator",
+      "password": "Mahi12345",
+      "image": "/images/1692526401619-4.jfif"
+    },
+    {
+      "id": 1692526505691,
+      "name": "mahaveer",
+      "email": "mahaver440@gmail.com",
+      "age": "40",
+      "role": "Editor",
+      "password": "Mahaveer123",
+      "image": "/images/1692526493289-5.jfif"
+    },
+    {
+      "id": 1692526536709,
+      "name": "TestUser",
+      "email": "test@yopmail.com",
+      "age": "30",
+      "role": "Editor",
+      "password": "Testing123",
+      "image": "/images/1692526530665-6.jfif"
+    },
+    {
+      "id": 1692526578175,
+      "name": "Harsh",
+      "email": "harsh12345@gmail.com",
+      "age": "12",
+      "role": "Viewer",
+      "password": "harsh1234pp",
+      "image": "/images/1692526570136-7.jfif"
+    }
+  ]
+}
